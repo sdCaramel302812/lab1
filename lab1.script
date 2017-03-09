@@ -1,0 +1,131 @@
+Script started on 廿十七年三月九日 (週四) 廿時56分廿一秒
+]0;caramel@caramel-VirtualBox: ~/lab1[01;32mcaramel@caramel-VirtualBox[00m:[01;34m~/lab1[00m$ whoame[Ki;pwd
+caramel
+/home/caramel/lab1
+]0;caramel@caramel-VirtualBox: ~/lab1[01;32mcaramel@caramel-VirtualBox[00m:[01;34m~/lab1[00m$ git cong[Kfig -l
+]0;caramel@caramel-VirtualBox: ~/lab1[01;32mcaramel@caramel-VirtualBox[00m:[01;34m~/lab1[00m$ ll
+total 8
+drwxrwxr-x  2 caramel caramel 4096  三   9 20:56 [0m[01;34m.[0m/
+drwxr-xr-x 20 caramel caramel 4096  三   9 20:55 [01;34m..[0m/
+-rw-rw-r--  1 caramel caramel    0  三   9 20:56 lab1.script
+]0;caramel@caramel-VirtualBox: ~/lab1[01;32mcaramel@caramel-VirtualBox[00m:[01;34m~/lab1[00m$ got[K[Ki[K[K./.gitconig[K[Kfig
+bash: ./.gitconfig: No such file or directory
+]0;caramel@caramel-VirtualBox: ~/lab1[01;32mcaramel@caramel-VirtualBox[00m:[01;34m~/lab1[00m$ cd ...[K
+]0;caramel@caramel-VirtualBox: ~[01;32mcaramel@caramel-VirtualBox[00m:[01;34m~[00m$ cd .../.gitconfig
+bash: ./.gitconfig: No such file or directory
+]0;caramel@caramel-VirtualBox: ~[01;32mcaramel@caramel-VirtualBox[00m:[01;34m~[00m$ ./.gitconfig[C[C[1P.gitconfig[1Pgitconfig
+.gitconfig: command not found
+]0;caramel@caramel-VirtualBox: ~[01;32mcaramel@caramel-VirtualBox[00m:[01;34m~[00m$ ll
+total 316
+drwxr-xr-x 20 caramel caramel  4096  三   9 20:55 [0m[01;34m.[0m/
+drwxr-xr-x  3 root    root     4096 十一 19 11:44 [01;34m..[0m/
+-rw-------  1 caramel caramel  5698  一  17 20:57 .bash_history
+-rw-r--r--  1 caramel caramel   220 十一 19 11:44 .bash_logout
+-rw-r--r--  1 caramel caramel  3771 十一 19 11:44 .bashrc
+drwx------ 14 caramel caramel  4096 十二  7 09:40 [01;34m.cache[0m/
+-rwxrwxr-x  1 caramel caramel  9080 十一 30 13:49 [01;32mcocktailsort[0m*
+-rw-rw-r--  1 caramel caramel  1016 十一 30 13:49 cocktailsort.c
+-rw-r--r--  1 caramel caramel 12288 十一 19 17:02 .cocktailsort.c.swp
+drwx------ 16 caramel caramel  4096 十二  3 09:55 [01;34m.config[0m/
+drwxr-xr-x  2 caramel caramel  4096 十一 19 12:02 [01;34mDesktop[0m/
+-rw-r--r--  1 caramel caramel    25 十一 19 12:02 .dmrc
+drwxr-xr-x  2 caramel caramel  4096 十一 19 12:02 [01;34mDocuments[0m/
+drwxr-xr-x  2 caramel caramel  4096 十一 19 12:02 [01;34mDownloads[0m/
+-rw-r--r--  1 caramel caramel  8980 十一 19 11:44 examples.desktop
+drwx------  2 caramel caramel  4096  三   9 20:55 [01;34m.gconf[0m/
+drwx------  3 caramel caramel  4096  三   9 20:45 [01;34m.gnupg[0m/
+drwxrwxr-x  2 caramel caramel  4096 十二 17 11:14 [01;34mhw6[0m/
+-rw-------  1 caramel caramel 11700  三   9 20:45 .ICEauthority
+drwxrwxr-x  2 caramel caramel  4096  三   9 20:56 [01;34mlab1[0m/
+drwx------  3 caramel caramel  4096 十一 19 12:02 [01;34m.local[0m/
+drwx------  4 caramel caramel  4096 十二  3 10:10 [01;34m.mozilla[0m/
+drwxr-xr-x  2 caramel caramel  4096 十一 19 12:02 [01;34mMusic[0m/
+-rw-rw-r--  1 caramel caramel     0 十二  3 10:03 .node_repl_history
+drwxr-xr-x  2 caramel caramel  4096 十一 19 12:02 [01;34mPictures[0m/
+-rw-r--r--  1 caramel caramel   675 十一 19 11:44 .profile
+drwxr-xr-x  2 caramel caramel  4096 十一 19 12:02 [01;34mPublic[0m/
+-rwxrwxr-x  1 caramel caramel  9048 十一 22 23:35 [01;32mqsort[0m*
+-rw-rw-r--  1 caramel caramel  1079 十一 22 23:34 qsort.c
+-rw-r--r--  1 caramel caramel 12288 十一 19 12:17 .qsort.c.swo
+-rw-------  1 caramel caramel 12288 十一 19 12:15 .qsort.c.swp
+-rw-rw-r--  1 caramel caramel  6431 十二 15 19:23 qsort.s
+drwx------  2 caramel caramel  4096 十二 17 11:51 [01;34m.ssh[0m/
+drwxrwxr-x  3 caramel caramel  4096 十二  7 09:57 [01;34mstring_2016lion[0m/
+-rw-r--r--  1 caramel caramel     0 十一 19 12:10 .sudo_as_admin_successful
+drwxr-xr-x  2 caramel caramel  4096 十一 19 12:02 [01;34mTemplates[0m/
+-rwxrwxr-x  1 caramel caramel  8768  一  18 01:22 [01;32mtest2[0m*
+-rw-rw-r--  1 caramel caramel   414  一  18 01:24 test2.c
+-rw-r--r--  1 caramel caramel 12288  一  17 22:11 .test2.c.swp
+-rw-rw-r--  1 caramel caramel   466  一  17 19:53 test.c
+-rwxrwxr-x  1 caramel caramel  9080  一  17 23:56 [01;32mtrpgroll[0m*
+-rw-rw-r--  1 caramel caramel  1002  一  17 23:56 trpgroll.c
+-rw-r--r--  1 caramel caramel     0  一  17 21:55 .trpgroll.c.swp
+-rw-rw-r--  1 caramel caramel  1213 十二 15 19:16 trpgroll.s
+-rw-rw-r--  1 caramel caramel   351  一  17 20:48 trpgroll.txt
+-rwxrwxr-x  1 caramel caramel  9056 十二 19 03:26 [01;32mtrpgrollVer2[0m*
+-rw-rw-r--  1 caramel caramel   879  一  17 22:07 trpgrollVer2.c
+-rw-r--r--  1 caramel caramel 12288  一  17 23:25 .trpgrollVer2.c.swo
+-rw-r--r--  1 caramel caramel 12288 十二 19 09:31 .trpgrollVer2.c.swp
+drwxr-xr-x  2 caramel caramel  4096 十一 19 12:02 [01;34mVideos[0m/
+-rw-------  1 caramel caramel  1070  一  18 01:24 .viminfo
+-rw-------  1 caramel caramel    63  三   9 20:45 .Xauthority
+-rw-------  1 caramel caramel    82  三   9 20:45 .xsession-errors
+-rw-------  1 caramel caramel    82  一  18 01:10 .xsession-errors.old
+]0;caramel@caramel-VirtualBox: ~[01;32mcaramel@caramel-VirtualBox[00m:[01;34m~[00m$ cd lab2[K1
+]0;caramel@caramel-VirtualBox: ~/lab1[01;32mcaramel@caramel-VirtualBox[00m:[01;34m~/lab1[00m$ ll
+total 12
+drwxrwxr-x  2 caramel caramel 4096  三   9 20:56 [0m[01;34m.[0m/
+drwxr-xr-x 20 caramel caramel 4096  三   9 20:55 [01;34m..[0m/
+-rw-rw-r--  1 caramel caramel 4096  三   9 21:01 lab1.script
+]0;caramel@caramel-VirtualBox: ~/lab1[01;32mcaramel@caramel-VirtualBox[00m:[01;34m~/lab1[00m$ git o[Kconfig
+usage: git config [<options>]
+
+Config file location
+    --global              use global config file
+    --system              use system config file
+    --local               use repository config file
+    -f, --file <file>     use given config file
+    --blob <blob-id>      read config from given blob object
+
+Action
+    --get                 get value: name [value-regex]
+    --get-all             get all values: key [value-regex]
+    --get-regexp          get values for regexp: name-regex [value-regex]
+    --get-urlmatch        get value specific for the URL: section[.var] URL
+    --replace-all         replace all matching variables: name value [value_regex]
+    --add                 add a new variable: name value
+    --unset               remove a variable: name [value-regex]
+    --unset-all           remove all matches: name [value-regex]
+    --rename-section      rename section: old-name new-name
+    --remove-section      remove a section: name
+    -l, --list            list all
+    -e, --edit            open an editor
+    --get-color           find the color configured: slot [default]
+    --get-colorbool       find the color setting: slot [stdout-is-tty]
+
+Type
+    --bool                value is "true" or "false"
+    --int                 value is decimal number
+    --bool-or-int         value is --bool or --int
+    --path                value is a path (file or directory name)
+
+Other
+    -z, --null            terminate values with NUL byte
+    --name-only           show variable names only
+    --includes            respect include directives on lookup
+
+]0;caramel@caramel-VirtualBox: ~/lab1[01;32mcaramel@caramel-VirtualBox[00m:[01;34m~/lab1[00m$ git co[Klone httpe[Ks://github.cpm[K[Kom/sdd[KCaramel302812/ lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+]0;caramel@caramel-VirtualBox: ~/lab1[01;32mcaramel@caramel-VirtualBox[00m:[01;34m~/lab1[00m$ ll
+total 16
+drwxrwxr-x  3 caramel caramel 4096  三   9 21:03 [0m[01;34m.[0m/
+drwxr-xr-x 20 caramel caramel 4096  三   9 20:55 [01;34m..[0m/
+drwxrwxr-x  3 caramel caramel 4096  三   9 21:03 [01;34mlab1[0m/
+-rw-rw-r--  1 caramel caramel 4096  三   9 21:01 lab1.script
+]0;caramel@caramel-VirtualBox: ~/lab1[01;32mcaramel@caramel-VirtualBox[00m:[01;34m~/lab1[00m$ exit
+
+Script done on 廿十七年三月九日 (週四) 廿一時三分廿七秒

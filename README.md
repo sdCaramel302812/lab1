@@ -1,2 +1,3 @@
 # lab1
-my first lab
+how to compile:
+g++ -o quesB quseB.cpp
